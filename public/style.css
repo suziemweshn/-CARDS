@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.card-header{
+    background-color:#46A149;
+    text-align:center;
+}
+.btn:hover {
+    background-color: #46A149; 
+    color: #fff; 
+}
+.fade-card{
+  transition: opacity 0.3s ease-in-out;
+}
+.fade-card:hover{
+  opacity: 0.7;
+}
+        
