@@ -8,98 +8,106 @@
     <link rel="stylesheet" href="{{asset('style.css')}}">
 </head>
 <body>
-    <h1>Hello world</h1>
+    
     <div class="container d-flex flex-row">
         <div class="row ">
             <div class="col-lg-4 col-md-6 col-sm-12  ">
-                <div class="card fade-card" style="margin-bottom:10px">
+                <div class="card fade-card" style="margin-bottom:10px; ">
                     <div class="card-header">
-                        <p>card 1</p>
+                        <p>Performance Appraisal</p>
                     </div>
-                    <div class="card-body">
-                        <div class="card-img-top">
-                            <img src="{{asset('astroemelia.jpg')}}" alt="" height="200px" width="300px">
-
-                        </div>
+                    <div class="card-body " style="height:100px">
+                        <p>content of  Performance Appraisal</p>
+</div>
                         <div class="card-footer">
-                        <button type="button" class="btn-btn-danger w-100 " ><a href=""></a>submit</button>
+                        <button type="button" class=" btn btn-danger w-100" ><a href=""></a>submit</button>
                         </div>
                     </div>
-                </div>
+                
 </div>
 
          
        
         <div class="col-lg-4 col-md-6 col-sm-12 ">
-                <div class="card fade-card">
-                    <div class="card-header">
-                        <p>card 1</p>
+                <div class="card fade-card ">
+                    <div class="card-header ">
+                        <p>Internal Memo</p>
                     </div>
-                    <div class="card-body">
-                        <div class="card-img-top ">
-                            <img src="{{asset('astroemelia.jpg')}}" alt="" height="200px" width="300px">
-
-                        </div>
+                    <div class="card-body"style="height:100px">
+                       Content of Internal Memo
+</div>
                         <div class="card-footer">
-                        <button class="btn-btn-danger w-100 " ><a href=""></a>submit</button>
+                        <button class=" btn btn-danger w-100 " ><a href=""></a>submit</button>
                         </div>
                     </div>
-                </div>
+                
 
            
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 mb-6">
                 <div class="card fade-card">
                     <div class="card-header">
-                        <p>card 1</p>
+                        <p>Incoming mail</p>
                     </div>
-                    <div class="card-body">
-                        <div class="card-img-top">
-                            <img src="{{asset('astroemelia.jpg')}}" alt="" height="200px" width="300px">
-
-                        </div>
+                    <div class="card-body "style="height:100px">
+                       Content of Incoming mail
+</div>
                         <div class="card-footer">
-                        <button class="btn-btn-danger w-100 "><a href=""></a>submit</button>
+                        <button class="btn btn-danger w-100 "><a href=""></a>submit</button>
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 col-sm-12  ">
+                <div class="card fade-card" style="margin-bottom:10px; ">
+                    <div class="card-header">
+                        <p>Performance Appraisal</p>
+                    </div>
+                    <div class="card-body " style="height:100px">
+                        <p>content of  Performance Appraisal</p>
+</div>
+                        <div class="card-footer">
+                        <button type="button" class=" btn btn-danger w-100" ><a href=""></a>submit</button>
+                        </div>
+                    </div>
+                
+</div>
 
-            </div>
+         
        
+        <div class="col-lg-4 col-md-6 col-sm-12 ">
+                <div class="card fade-card ">
+                    <div class="card-header ">
+                        <p>Internal Memo</p>
+                    </div>
+                    <div class="card-body"style="height:100px">
+                       Content of Internal Memo
+</div>
+                        <div class="card-footer">
+                        <button class=" btn btn-danger w-100 " ><a href=""></a>submit</button>
+                        </div>
+                    </div>
+                
+
+           
+        </div>
         <div class="col-lg-4 col-md-6 col-sm-12 mb-6">
                 <div class="card fade-card">
                     <div class="card-header">
-                        <p>card 1</p>
+                        <p>Incoming mail</p>
                     </div>
-                    <div class="card-body">
-                        <div class="card-img-top">
-                            <img src="{{asset('astroemelia.jpg')}}" alt="" height="200px" width="300px">
-
-                        </div>
-                        <div class="card-footer">
-                        <button class="btn-btn-danger w-100 " ><a href=""></a>submit</button>
-                        </div>
-                    </div>
-                </div>
-
+                    <div class="card-body "style="height:100px">
+                       Content of Incoming mail
 </div>
-        <div class="col-lg-4 col-md-6 col-sm-12 mb-5">
-                <div class="card fade-card">
-                    <div class="card-header">
-                        <p>card 1</p>
-                    </div>
-                    <div class="card-body">
-                        <div class="card-img-top">
-                            <img src="{{asset('astroemelia.jpg')}}" alt="" height="200px" width="300px">
-
-                        </div>
                         <div class="card-footer">
-                        <button class="btn-btn-danger w-100 " ><a href=""></a>submit</button>
+                        <button class="btn btn-danger w-100 "><a href=""></a>submit</button>
                         </div>
                     </div>
                 </div>
 
-            </div>
+
+           
+       
+       
 </div>
 </div>
   
